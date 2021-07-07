@@ -1,1 +1,1 @@
-# javascript-if-else
+# javascript-if-ele,array,function
